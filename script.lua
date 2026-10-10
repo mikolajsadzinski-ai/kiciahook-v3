@@ -9,7 +9,7 @@
 ]]
 
 local COMMUNITY_LINK = "https://abre.ai/skcp"
-local VALID_KEY = "papaleta"
+local VALID_KEY = "youaredead"
 
 -- troque pelos seus próprios asset ids (apenas as abas usam ícone)
 local ICON_KEY  = "rbxassetid://7733960981"   -- ícone da aba Key
